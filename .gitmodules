@@ -1,6 +1,6 @@
 [submodule "tictactoe-web"]
-	path = tictactoe-web
+    path = web
 	url = https://github.com/aspyrx/tictactoe-web.git
 [submodule "tictactoe-server"]
-	path = tictactoe-server
+	path = server
 	url = https://github.com/aspyrx/tictactoe-server.git
